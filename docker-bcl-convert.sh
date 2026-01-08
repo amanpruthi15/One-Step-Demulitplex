@@ -1,10 +1,8 @@
 #!/bin/bash
 
+#Aman Pruthi 08Jan2026
 #Description and Purpose 
 #To run the docker container for bcl convert to demultiplex the files 
-#Author: Jesleen Sonia Pradeep Kamalesh
-#Version: 1.0 ( Initial Version)
-#Date: 2021-10-27
 #Usage: bash {path-to-script} {config-file-path}
 #Input folder: Directory of  the .csv file 
 #Input File: data sheet which is .csv file
