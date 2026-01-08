@@ -30,6 +30,8 @@ The pipeline:
 - `sudo` access
 - Illumina run directory containing BCL files
 - Illumina SampleSheet CSV
+- Docker container - zymoresearch/bcl-convert
+
 
 ---
 
