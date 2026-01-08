@@ -101,7 +101,7 @@ Demultiplex SampleSheet.csv
 
 #### The pipeline generates:
 
-- YYYY-MM-DD_<RunName>_SampleSheet_Demux.csv
-- YYYY-MM-DD_<RunName>.config
+- YYYY-MM-DD_{RunName}_SampleSheet_Demux.csv
+- YYYY-MM-DD_{RunName}.config
 - FASTQ output directory: output/
 - Log file: YYYY-MM-DD_demux.log
