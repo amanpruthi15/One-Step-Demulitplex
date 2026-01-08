@@ -1,6 +1,6 @@
 [Header]
 FileFormatVersion,2
-RunName,2025-12-XX_Project_Run
+RunName,YYYY-MM-DD_Project_Run
 InstrumentPlatform,NextSeq
 IndexOrientation,Forward
 
@@ -19,3 +19,4 @@ FastqCompressionFormat,gzip
 Sample_ID,Index,Index2
 SAMPLE_001,ACGTACGTAA,TTGGCCTTAA
 SAMPLE_002,TGCAAGCTTT,CCAATTGGCC
+
